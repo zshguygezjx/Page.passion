@@ -1,1 +1,10 @@
-
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Ma passion</title>
+</head>
+<body>
+<img scr="Images/IMG_0756.jpeg" alt="chat siamois au crochet">
+</body"
+</html>
